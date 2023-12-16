@@ -1,0 +1,11 @@
+%%%package%%%  %%namepackage%%
+
+%%import%%
+
+%publicClass%  %%classname%%
+
+%%attributes%%
+
+%%getters%%
+
+%%setters%%
